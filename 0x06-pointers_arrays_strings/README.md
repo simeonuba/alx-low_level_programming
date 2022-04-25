@@ -1,1 +1,1 @@
-pointerss and array with string 
+this is pointer 6
